@@ -6,6 +6,7 @@
 - 📖 I’m currently learning **Nativescript**
 
 - 💬 **Fun fact:** I broke githubs language percentage calculations
+
 ( check resonanceee/TrashApp )
 
 <h3 align="left">My top skills:</h3>

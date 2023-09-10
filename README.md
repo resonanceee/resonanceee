@@ -1,9 +1,9 @@
 <h3 align="center">Hello world👋</h3>
 <h1 align="center">I'm Resonance</h1>
 
-- 🌱 I’m currently working on **TrashTracer**
+- 🌱 I’m taking **CS50**
 
-- 📖 I’m currently learning **Nativescript**
+- 📖 I’m currently learning **[Mojo](https://mojolang.org/)**
 
 - 👀 I'm interested in data **Data Science**, **Machine Learning** and **Fullstack Application Development**
 

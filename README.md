@@ -16,6 +16,4 @@
 
 <h3 align="left">Stats and streaks:</h3>
 
-![resonanceee's Streak](https://github-readme-streak-stats.herokuapp.com/?user=resonanceee&theme=midnight-purple&hide_border=true)
-<!-- ![resonanceee's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=resonanceee&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact) -->
-<!-- ![resonanceee's Stats](https://github-readme-stats.vercel.app/api?username=resonanceee&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true) -->
+[GitHub Streak](https://streak-stats.demolab.com/?user=resonanceee)](https://git.io/streak-stats)

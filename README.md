@@ -16,4 +16,4 @@
 
 <h3 align="left">Stats and streaks:</h3>
 
-[GitHub Streak](https://streak-stats.demolab.com/?user=resonanceee)](https://git.io/streak-stats)
+[GitHub Streak](https://streak-stats.demolab.com/?user=resonanceee)(https://git.io/streak-stats)

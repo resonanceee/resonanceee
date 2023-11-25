@@ -3,7 +3,7 @@
 
 - 🌱 I’m taking **CS50**
 
-- 📖 I’m currently learning **[Mojo](https://mojolang.org/)**
+- ⚙️ I’m currently working on **[EyeHide](https://eyehide.org)**
 
 - 👀 I'm interested in data **Data Science**, **Machine Learning** and **Fullstack Application Development**
 

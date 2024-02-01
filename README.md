@@ -23,7 +23,7 @@
 ![Vue](https://img.icons8.com/color/30/vue-js.png)
 ![Nuxt](https://img.icons8.com/color/30/nuxt-jc.png)
 ![Nativescript](https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-nativescript-is-an-open-source-framework-to-develop-apps-logo-color-tal-revivo.png)
-![Electron]
+<img src="https://www.electronjs.org/assets/img/favicon.ico" width="30" height="30" alt="electon">
 ![C](https://img.icons8.com/color/30/c-programming.png)
 ![Python](https://img.icons8.com/color/30/python--v1.png)
 ![Bash](https://img.icons8.com/color/30/bash.png)

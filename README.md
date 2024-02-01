@@ -5,32 +5,30 @@
 
 - ⚙️ I’m currently working on **[EyeHide](https://eyehide.org)**
 
-- 👀 I'm interested in data **Data Science**, **Machine Learning** and **Fullstack Application Development**
+- 👀 I'm interested in **Data Science**, **Machine Learning** and **Fullstack Application Development**
 
 - 💬 Fact: **Databases** don't like me
 
 - 📫 How to reach me: Discord: **@resonance_dev** Email: **resonance.commercial@gmail.com**
 
-<h3 align="left">My top skills:</h3>
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/nativescript.svg" alt="nativescript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </p>
+## Technologies and Software
 
-
+![HTML](https://img.icons8.com/color/48/html-5.png)
+![CSS](https://img.icons8.com/color/48/css3.png)
+![Bootstrap](https://img.icons8.com/color-glass/48/bootstrap.png)
+![Tailwind](https://img.icons8.com/color/48/tailwind_css.png)
+![JavaScript](https://img.icons8.com/color/48/javascript.png)
+![TypeScript](https://img.icons8.com/color/48/typescript.png)
+![NodeJs](https://img.icons8.com/color/48/nodejs.png)
+![Vue](https://img.icons8.com/color/48/vue-js.png)
+![Nuxt](https://img.icons8.com/color/48/nuxt-jc.png)
+![Nativescript](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-nativescript-is-an-open-source-framework-to-develop-apps-logo-color-tal-revivo.png)
+![C](https://img.icons8.com/color/48/c-programming.png)
+![Python](https://img.icons8.com/color/48/python--v1.png)
+![Bash](https://img.icons8.com/color/48/bash.png)
+![Linux](https://img.icons8.com/color/48/linux--v1.png)
+![Kali](https://img.icons8.com/color/48/kali-linux.png)
+![Arch](https://img.icons8.com/material-outlined/48/2266EE/arch-linux.png)
+![Docker](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png)
+![Git](https://img.icons8.com/color/48/git.png)
+![Blender](https://img.icons8.com/color/48/blender-3d.png)

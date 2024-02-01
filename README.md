@@ -30,5 +30,7 @@
 ![Kali](https://img.icons8.com/color/30/kali-linux.png)
 ![Arch](https://img.icons8.com/material-outlined/30/2266EE/arch-linux.png)
 ![Docker](https://img.icons8.com/external-tal-revivo-color-tal-revivo/30/external-docker-a-set-of-coupled-software-as-a-service-logo-color-tal-revivo.png)
+![Redis](https://img.icons8.com/color/48/redis--v1.png)
+![MySQL](https://img.icons8.com/color/30/mysql-logo.png)
 ![Git](https://img.icons8.com/color/30/git.png)
 ![Blender](https://img.icons8.com/color/30/blender-3d.png)

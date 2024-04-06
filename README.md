@@ -9,7 +9,7 @@
 
 - 💬 Fact: **Databases** don't like me
 
-- 📫 How to reach me: Discord: **@resonance_dev** Email: **resonance.commercial@gmail.com**
+- 📫 How to reach me: Discord: **@resonance_dev** Email: **yaroslav.rivny@gmail.com**
 
 ## Technologies and Software
 

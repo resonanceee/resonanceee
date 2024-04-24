@@ -5,7 +5,7 @@
 
 - ⚙️ I’m currently working on **[EyeHide](https://eyehide.org)**
 
-- 👀 I'm interested in **Data Science**, **Machine Learning** and **Fullstack Application Development**
+- 👀 I'm interested in **Fullstack Application Development**
 
 - 💬 Fact: **Databases** don't like me
 

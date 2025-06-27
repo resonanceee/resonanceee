@@ -1,7 +1,7 @@
 <h3 align="center">Hi👋</h3>
 <h1 align="center">I'm Resonance</h1>
 
-- ⚙️ I’m currently working on **[EyeHide](https://eyehide.org)**
+- ⚙️ I’m currently working on **[AtomHR](https://atomhr.it)**
 
 - 👀 I'm interested in **Fullstack Application Development**
 

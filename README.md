@@ -7,7 +7,7 @@
 
 - 💬 Fact: **Databases** don't like me
 
-- 📫 How to reach me: Discord: **@resonance_dev** Email: **yaroslav.rivny@gmail.com**
+- 📫 How to reach me: Discord: **@resonance_dev** Email: **res@onance.dev**
 
 ## Technologies and Software
 

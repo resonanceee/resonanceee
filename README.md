@@ -1,7 +1,7 @@
 <h3 align="center">Hi👋</h3>
 <h1 align="center">I'm Resonance</h1>
 
-- ⚙️ I’m currently working on **[WaveLab]([https://atomhr.it](https://www.wavelab.space/))**
+- ⚙️ I’m currently working on **[WaveLab](https://www.wavelab.space/)**
 
 - 👀 I'm interested in **Machine Learning**
 

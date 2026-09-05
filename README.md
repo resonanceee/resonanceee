@@ -5,6 +5,4 @@
 
 - 👀 I'm interested in **Machine Learning**
 
-- 💬 Fact: **Databases** don't like me
-
 - 📫 How to reach me: Discord: **@resonance_dev** Email: **res@onance.dev**

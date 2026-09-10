@@ -3,6 +3,6 @@
 
 - ⚙️ I’m currently working on **[WaveLab](https://www.wavelab.space/)**
 
-- 👀 I'm interested in **Machine Learning**
+- 👀 I'm interested in **AI and Machine Learning**
 
 - 📫 How to reach me: Discord: **@resonance_dev** Email: **res@onance.dev**

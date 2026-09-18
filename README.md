@@ -22,7 +22,7 @@ a smart EV charging platform, where I work on the ML side of the product.
   write-up of everything the live environment broke.
 - **[OSCAR Coding Camp](https://www.unibz.it/)** — tutor at the 2025 and 2026
   editions (Libera Università di Bolzano, EU Erasmus+ project), after participating
-  in 2024.
+  in 2024 and 2023.
 
 ## Elsewhere
 

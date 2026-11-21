@@ -15,11 +15,6 @@ a smart EV charging platform, where I work on the ML side of the product.
   [npm plugin for opencode](https://www.npmjs.com/package/@resonanceee/opencode-ragfaith),
   and an MCP server. The proxy runs 24/7 on a Raspberry Pi at home, checking my own
   agent sessions.
-- **[Casavo front-desk voice agent](https://res.onance.dev/work/casavo-front-desk)** —
-  built in one day at Hack The Peak 2026: an ElevenLabs voice agent that answers
-  Casavo's phone line, qualifies sellers, prices homes through the Casavo API, and
-  books visits. Shipped with a twelve-scenario regression battery and an honest
-  write-up of everything the live environment broke.
 - **[OSCAR Coding Camp](https://www.unibz.it/)** — tutor at the 2025 and 2026
   editions (Libera Università di Bolzano, EU Erasmus+ project), after participating
   in 2024 and 2023.
